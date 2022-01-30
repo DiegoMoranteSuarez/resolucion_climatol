@@ -1,7 +1,7 @@
 
 HOMOGSPLIT() APPLICATION OUTPUT  (From R's contributed package 'climatol' 3.1.1)
 
-=========== Homogenization of Ptest, 1965-2005. (Sun Jan 30 17:46:03 2022)
+=========== Homogenization of Ptest, 1965-2005. (Sun Jan 30 18:06:53 2022)
 
 Parameters: varcli=Ptest anyi=1965 anyf=2005 xc=2.9 yc=39 xo=0 yo=0 maponly=FALSE suf=NA nm=12 nref=10,10,4 swa=NA std=3 ndec=1 dz.max=5 dz.min=-5 wd=0,0,100 snht1=25 snht2=25 tol=0.02 maxdif=NA mxdif=NA force=FALSE wz=0.001 trf=0 mndat=NA gp=4 ini=NA na.strings=NA maxite=999 vmin=NA vmax=NA nclust=100 grdcol=#666666 mapcol=#666666 hires=TRUE expl=TRUE metad=FALSE sufbrk=m tinc=NA tz=UTC cex=1.2 verb=TRUE x=NA
 
@@ -40,7 +40,7 @@ They will be included in the next selection.
 
 HOMOGEN() APPLICATION OUTPUT  (From R's contributed package 'climatol' 3.1.1)
 
-=========== Homogenization of Ptest-1, 1965-2005. (Sun Jan 30 17:46:04 2022)
+=========== Homogenization of Ptest-1, 1965-2005. (Sun Jan 30 18:06:53 2022)
 
 Parameters: varcli=Ptest-1 anyi=1965 anyf=2005 suf=NA nm=12 nref=10,10,4 std=3 swa=NA ndec=1 dz.max=5 dz.min=-5 wd=0,0,100 snht1=0 snht2=0 tol=0.02 maxdif=0.05 mxdif=0.05 maxite=999 force=FALSE wz=0.001 trf=0 mndat=NA gp=4 ini=NA na.strings=NA vmin=NA vmax=NA nclust=100 cutlev=NA grdcol=#666666 mapcol=#666666 hires=TRUE expl=TRUE metad=FALSE sufbrk=m tinc=NA tz=UTC cex=1.2 verb=TRUE
 
@@ -101,7 +101,7 @@ The following lines will have one of these formats:
 
 Last series readjustment (please, be patient...)
 
-======== End of the missing data filling process, after 6.09 secs 
+======== End of the missing data filling process, after 4.64 secs 
 
 ----------- Final computations:
 
@@ -156,7 +156,7 @@ Ptest-1_1965-2005.rda :  Homogenization results. Postprocess with (examples):
    ... (See other options in the package documentation)
 
 
-======== End of homogenization of overlapping areas, after 6.19 secs 
+======== End of homogenization of overlapping areas, after 4.72 secs 
 
 ----------- Generated output files: -------------------------
 
